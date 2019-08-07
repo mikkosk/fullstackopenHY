@@ -1,4 +1,5 @@
 # fullstackopenHY
 
-Helsingin yliopiston fullstackopen2019 -kurssin palautettavat tehtävät \n
+Helsingin yliopiston fullstackopen2019 -kurssin palautettavat tehtävät
+
 mikkosk
