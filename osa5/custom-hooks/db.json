@@ -1,0 +1,41 @@
+{
+  "notes": [
+    {
+      "content": "custom-hooks are awesome!",
+      "id": 1
+    },
+    {
+      "content": "best feature ever <3",
+      "id": 2
+    },
+    {
+      "content": "ok",
+      "id": 3
+    },
+    {
+      "content": "joo",
+      "id": 4
+    },
+    {
+      "content": "ei",
+      "id": 5
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "kissa",
+      "number": "123",
+      "id": 2
+    },
+    {
+      "name": "koira",
+      "number": "456",
+      "id": 3
+    }
+  ]
+}
