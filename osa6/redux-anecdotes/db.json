@@ -1,0 +1,24 @@
+{
+  "anecdotes": [
+    {
+      "content": "uusi anecdootti",
+      "votes": 5,
+      "id": 1
+    },
+    {
+      "content": "vanha anecdootti",
+      "votes": 7,
+      "id": 2
+    },
+    {
+      "content": "seuraava anecdootti",
+      "votes": 5,
+      "id": 3
+    },
+    {
+      "content": "valmis anecdootti",
+      "votes": 8,
+      "id": 4
+    }
+  ]
+}
