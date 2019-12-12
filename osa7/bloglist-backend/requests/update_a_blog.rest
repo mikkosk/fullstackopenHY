@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/5d6513585944c23f345432a6
+Content-Type: application/json
+
+{
+    "title": "Testi Päivitys",
+    "author": "päivittäjä",
+    "url": "päivitys"
+    
+}
